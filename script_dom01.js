@@ -1,0 +1,2 @@
+impre('Hola');
+pintaElemento('bloqueGeneral');
