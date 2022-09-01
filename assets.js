@@ -3,12 +3,10 @@ console.log(elemento);
 }
 
 function pintaElemento(div, texto, tipo){
-    impre('Id00 Pinta elemento');
-    if(tipo="append"){
+    if(tipo=="append"){
         $('#'+div).append(texto);
     }
-    if(tipo="html"){
-        impre('id01 esto es htnml');
+    if(tipo=="html"){
         $('#titulo').html('Calculadora');
         $('#'+div).html(texto);
     }
@@ -23,6 +21,15 @@ function temaCurso(){
         $('#bloqueGeneral').addClass('bloqueGeneral');            
     }
 }
+
+function pintaSignos(){
+    // + , mas,    ejemplo=> if(signo=='mas' ){sumas}
+}
+
+
+
+
+
 
 
 
