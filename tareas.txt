@@ -1,0 +1,13 @@
+06_09_22
+Tarea 1
+Hacer una página con una imagen inicial y un boton, 
+Cuando le des click al boton que cambie la imagen por otra
+todos los elementos tendran que ser declardos mediante jquery o javascript.
+en Html solo debe de existir el <div id=bloqueGeneral></div>
+
+Tarea 2
+hacer un arreglo con los nombres de tu familia y ordenarlos alfabeticamente
+pintarlos en el html  
+
+Tarea 3
+hacer una función que te de la hora de cdmx y en base a esa hora calcular y mostrar la hora en francia y japon
