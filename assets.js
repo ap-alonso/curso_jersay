@@ -25,12 +25,3 @@ function temaCurso(){
 function pintaSignos(){
     // + , mas,    ejemplo=> if(signo=='mas' ){sumas}
 }
-
-
-
-
-
-
-
-
-

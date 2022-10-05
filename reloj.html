@@ -3,19 +3,19 @@
     <title>Reloj con Javascript</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="assets.js"></script>
-
 <style>
-
 </style>
 </head>
 <body >
     <div id="reloj02"></div>
 <script>
+    
     $(document).ready(function () {
         mueveReloj();
         console.log(horaImprimible);
         alarmaHora();
     });
+    
     function mueveReloj() {
         momentoActual = new Date()
         hora = momentoActual.getHours()
@@ -44,7 +44,6 @@
             }
         }
     
-
 </script>
 </body>
 </html>
